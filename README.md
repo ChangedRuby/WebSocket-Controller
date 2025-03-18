@@ -1,5 +1,5 @@
 # WebSocket-Controller
- A custom controller made with ESP32 to integraate with a Godot game.
+ A custom controller made with ESP32 to integrate with a Godot game.
 
 ### Usage
 
