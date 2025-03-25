@@ -17,3 +17,6 @@ Open Boards Manager<br />
 Download **esp32 by Espressif Systems**<br />
 Open Library Manager<br />
 Download **WebSockets by Markus Sattler**<br />
+
+You can check the breadboard setup here:<br />
+<https://wokwi.com/projects/426418789819684865>
